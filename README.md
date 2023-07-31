@@ -2,42 +2,4 @@
   <img height="270" src="https://media.tenor.com/Vk99BwgU9BIAAAAC/tokyo-ghoul.gif"  />
 </div>
 
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
-on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
-  workflow_dispatch:
-  push: {branches: ["master", "main"]}
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: zerbaliy3v
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: UTC
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
-  
-
-
+![Metrics](https://metrics.lecoq.io/zerbaliy3v?template=classic&isocalendar=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=UTC)
