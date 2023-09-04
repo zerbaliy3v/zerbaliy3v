@@ -1,6 +1,7 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=zerbaliy3v&text2=Pentester&width=900&height=400)
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerbaliy3v&theme=dark&hide_border=false" alt="profile-radme-generator" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerbaliy3v&theme=tokyonight)
 
 
 <div align="center">
