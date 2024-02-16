@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img height="270" src="https://media.tenor.com/Vk99BwgU9BIAAAAC/tokyo-ghoul.gif"  />
+  <img height="270" src="https://media.giphy.com/media/kXdo4BgGoFC80/giphy.gif" />
 </div>
 <hr>
 <p align="center"><a href="https://github.com/zerbaliy3v" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://twitter.com/zerbaliy3v" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg alt="profile-radme-generator" height="30" width="40" /></a></p>
