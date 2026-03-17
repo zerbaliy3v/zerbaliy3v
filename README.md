@@ -1,8 +1,5 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=zerbaliy3v&text2=Pentester&width=900&height=400)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerbaliy3v&theme=dark&hide_border=true" align="left" alt='xxx'/>
-  
-
 
 <div align="center">
   <img height="270" src="https://media.giphy.com/media/kXdo4BgGoFC80/giphy.gif" />
