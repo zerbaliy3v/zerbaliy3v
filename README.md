@@ -4,6 +4,7 @@
   
 
 <br/>  
+<hr/>
 
 <div align="center">
 <a href="https://github.com/zerbaliy3v" target="_blank">
@@ -15,3 +16,4 @@
 </div>  
 
 <br/>  
+
