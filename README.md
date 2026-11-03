@@ -1,8 +1,14 @@
 <div align="center">
 <img src="https://media.giphy.com/media/kXdo4BgGoFC80/giphy.gif" align="center" style="width: 100%" />
+
+<br>
+  
+<a href="https://github.com/zerbaliy3v">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00FF41&center=true&vCenter=true&width=520&height=40&lines=%3E+whoami;Cyber Security Analyst;Security+Researcher;" alt="Typing SVG">
+</a>
+
 </div>  
   
-
 <br/>  
 <hr/>
 
