@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="./">
+<a href="https://github.com/zerbaliy3v">
   <img src="https://media.giphy.com/media/13cdA48uycje5G/giphy.gif" width="480" alt="./.txt">
 </a>
 
