@@ -18,7 +18,7 @@
 
 ## `> about me`
 
-<table>
+<table width="100%">
   <tr>
     <td width="60%" valign="top">
 
@@ -33,17 +33,18 @@ zerbaliy3v@root:~$ ./threat-level.sh
 HACKER LEVEL  ▰▰▰▰▰▰▰▱▱▱  HIGH
 COFFEE LEVEL  ▰▰▰▰▰▰▰▰▰▰  CRITICAL
 SLEEP LEVEL   ▰▰▱▱▱▱▱▱▱▱  LOW
-
-
-
-
-
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
 ```
 
 </td>
-    <td width="40%" align="center">
+    <td width="40%" align="center" valign="top">
       <a href="https://github.com/zerbaliy3v">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGR1d2VnZzVjc3JnaHJ0czVuZHR5aDB4MWJ4M2k2aHU0M3kzd3U1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UznDsGWeBc8Ok/giphy.gif"  alt="./">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGR1d2VnZzVjc3JnaHJ0czVuZHR5aDB4MWJ4M2k2aHU0M3kzd3U1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UznDsGWeBc8Ok/giphy.gif" width="277" height="342" alt="./">
       </a>
     </td>
   </tr>
