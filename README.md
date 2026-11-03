@@ -43,7 +43,7 @@ SLEEP LEVEL   ▰▰▱▱▱▱▱▱▱▱  LOW
 </td>
     <td width="40%" align="center">
       <a href="https://github.com/zerbaliy3v">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGR1d2VnZzVjc3JnaHJ0czVuZHR5aDB4MWJ4M2k2aHU0M3kzd3U1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UznDsGWeBc8Ok/giphy.gif" width="83%" alt="./">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGR1d2VnZzVjc3JnaHJ0czVuZHR5aDB4MWJ4M2k2aHU0M3kzd3U1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UznDsGWeBc8Ok/giphy.gif" width="80%" alt="./">
       </a>
     </td>
   </tr>
